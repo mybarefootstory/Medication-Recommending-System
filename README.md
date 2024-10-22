@@ -78,7 +78,7 @@ def predict():
 ### **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/Personalized-Medical-Recommendation-System.git
+git clone https://github.com/mybarefootstory/Personalized-Medical-Recommendation-System.git
 ```
 
 ## Install required dependencies:
